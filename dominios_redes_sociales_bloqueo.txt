@@ -1,0 +1,46 @@
+! Bloqueo dominios redes sociales - Auditoría MinTIC
+! Intercomm de Nariño S.A.S - NIT 900.644.312-1
+! ADVERTENCIA: Estas reglas bloquean las redes sociales completas
+! Aplicar SOLO durante la auditoría y revertir después
+! Generado: Junio 2026
+
+! === INSTAGRAM ===
+||instagram.com^
+||www.instagram.com^
+||cdninstagram.com^
+
+! === FACEBOOK ===
+||facebook.com^
+||www.facebook.com^
+||m.facebook.com^
+||web.facebook.com^
+||fbcdn.net^
+
+! === TIKTOK ===
+||tiktok.com^
+||www.tiktok.com^
+
+! === TWITTER / X ===
+||twitter.com^
+||www.twitter.com^
+||x.com^
+||www.x.com^
+
+! === YOUTUBE ===
+||youtube.com^
+||www.youtube.com^
+
+! === TELEGRAM ===
+||t.me^
+||telegram.me^
+||telegram.org^
+
+! === WHATSAPP ===
+||whatsapp.com^
+||chat.whatsapp.com^
+||wa.link^
+||wa.me^
+
+! === VIMEO ===
+||vimeo.com^
+||www.vimeo.com^
